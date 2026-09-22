@@ -52,7 +52,7 @@ export function Hero() {
                 <img
                   src="/profile.jpg"
                   alt="Zaha Asim"
-                  className="h-20 w-20 rounded-full object-cover border border-border"
+                  className="h-32 w-32 rounded-full object-cover border border-border"
                 />
                   <span className="rounded-full border border-border bg-background px-3 py-1 text-[11px] uppercase tracking-[0.18em] text-muted-foreground">
                   Fintech
