@@ -39,18 +39,6 @@ const projects = [
       "Third-party vendor coordination",
     ],
   },
-  {
-    domain: "Financial Planning",
-    title: "Digital wealth advisory platform",
-    summary:
-      "A licensed investment advisory firm moving from relationship-led advisory to a digital, goal-based platform for its clients.",
-    tags: ["Discovery", "Goal-based UX", "Stakeholders"],
-    highlights: [
-      "Goal-based UX requirements",
-      "Advisory-to-digital transition",
-      "Cross-team stakeholder alignment",
-    ],
-  },
 ]
 
 function CardBody({ project }: { project: (typeof projects)[number] }) {
