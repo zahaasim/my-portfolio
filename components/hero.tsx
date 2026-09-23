@@ -1,7 +1,7 @@
 import { ArrowUpRight } from "lucide-react"
 
 const stats = [
-  { value: "4", label: "Platforms delivered" },
+  { value: "3", label: "Platforms delivered" },
   { value: "3", label: "Regulatory markets" },
   { value: "2 yrs", label: "In fintech delivery" },
   { value: "6+", label: "BRDs & PRDs authored" },
